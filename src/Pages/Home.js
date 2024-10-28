@@ -1,4 +1,3 @@
-import Header from '../sections/Header';
 import Cover from '../sections/Cover';
 import Categories from '../sections/Categories';
 import Listings from '../sections/Listing';
@@ -10,7 +9,6 @@ import Footer from '../sections/Footer';
 export default function Home() {
     return (
         <div>
-            <Header />
             <Cover />
             <Categories />
             <Listings />

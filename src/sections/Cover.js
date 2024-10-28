@@ -3,7 +3,7 @@ import { CiSearch } from "react-icons/ci";
 
 export default function Cover() {
     return (
-        <div className="relative mt-6 h-[600px] w-full">
+        <div className="relative mt-5 h-[600px] w-full">
             <img className="absolute top-0 left-0 w-full h-full -z-10" src={cover} alt="" />
             <div className="pt-24 text-center max-md:flex max-md:items-center max-md:flex-col max-md:w-full">
                 <div className="max-md:w-1/2">
